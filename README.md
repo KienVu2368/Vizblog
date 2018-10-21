@@ -1,1 +1,1 @@
-blog
+# This repository contains all material used for my blog at https://medium.com/@kien.vu
